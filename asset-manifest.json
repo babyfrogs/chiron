@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dbb38cba.chunk.css",
+    "main.js": "/static/js/main.09f5aa6d.chunk.js",
+    "main.js.map": "/static/js/main.09f5aa6d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.90cc4e86.js",
+    "runtime-main.js.map": "/static/js/runtime-main.90cc4e86.js.map",
+    "static/js/2.63097ed8.chunk.js": "/static/js/2.63097ed8.chunk.js",
+    "static/js/2.63097ed8.chunk.js.map": "/static/js/2.63097ed8.chunk.js.map",
+    "static/js/3.8dfcd814.chunk.js": "/static/js/3.8dfcd814.chunk.js",
+    "static/js/3.8dfcd814.chunk.js.map": "/static/js/3.8dfcd814.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.dbb38cba.chunk.css.map": "/static/css/main.dbb38cba.chunk.css.map",
+    "static/js/2.63097ed8.chunk.js.LICENSE.txt": "/static/js/2.63097ed8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/image1_Mesa de trabajo 1.5a3316df.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90cc4e86.js",
+    "static/js/2.63097ed8.chunk.js",
+    "static/css/main.dbb38cba.chunk.css",
+    "static/js/main.09f5aa6d.chunk.js"
+  ]
+}
